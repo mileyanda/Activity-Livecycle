@@ -7,5 +7,5 @@
 - Asal Sekolah  : SMK Telkom Malang
 
 ##SCREENSHOOT PROJECT
-![Screenshoot1](https://s22.postimg.org/9p3hhcbv5/Activity_Livecycle_1.jpg)
-![Screenshoot2](https://s11.postimg.org/ii9hmww43/Activity_Livecycle_2.jpg)
+![Screenshoot1](https://s22.postimg.org/9p3hhcbv5/Activity_Livecycle_1.jpg)<br>
+![Screenshoot2](https://s11.postimg.org/ii9hmww43/Activity_Livecycle_2.jpg)<br>
